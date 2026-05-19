@@ -1,5 +1,9 @@
 # Hospital Operations & Patient Risk Intelligence Dashboard
 
+## Dashboard Preview
+
+![Hospital Dashboard](images/dashboard.png)
+
 ## Executive Overview
 
 The **Hospital Operations & Patient Risk Intelligence Dashboard** is an advanced healthcare analytics solution designed to provide a comprehensive view of hospital performance, patient risk metrics, operational efficiency, and financial insights.
