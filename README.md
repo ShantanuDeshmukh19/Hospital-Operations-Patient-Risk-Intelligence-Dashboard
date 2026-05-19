@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Hospital Dashboard](images/dashboard.png)
+![Hospital Dashboard](C:\Users\DELL\Documents\NareshIT\Data Analytics Screening Test Batch\Hospital_Project _Git)
 
 ## Executive Overview
 
